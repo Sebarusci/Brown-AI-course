@@ -1,0 +1,12 @@
+#(Importing Own File Basics)
+#from python_basics_1 import Student
+#or
+import Python_basics_1
+
+student_2 = Python_basics_1.Student("Joey Cabroza",14, "9th")
+student_2.student_info()
+
+#from python_basics_1 import Course
+
+course_2 = Python_basics_1.Course("English II", 3.4, "O'leander spaphire Montrogremyus")
+course_2.course_info()
